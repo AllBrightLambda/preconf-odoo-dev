@@ -1,1 +1,2 @@
 cp ~/preconf-odoo-dev/lo* .
+rm -rf preconf-odoo-dev
